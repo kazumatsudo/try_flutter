@@ -12,6 +12,12 @@ $ flutter run
 
 - [pedantic_mono](https://pub.dev/packages/pedantic_mono)
 
+## test
+
+```sh
+$ flutter test
+```
+
 ## 読み物
 
 - [Flutter](https://flutter.dev/)
